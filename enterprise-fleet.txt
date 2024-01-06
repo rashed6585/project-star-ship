@@ -1,1 +1,2 @@
 command on enterprise ship
+action on main ship
